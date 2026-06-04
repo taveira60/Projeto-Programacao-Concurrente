@@ -1,0 +1,10 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{\numberline {1}Introdução}{3}{section.1}%
+\contentsline {section}{\numberline {2}Desenvolvimento}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Análise do Problema}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Solução Implementada}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Implementação}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Estrutura do Projeto}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Comunicação Cliente-Servidor}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Gestão Concorrente das Partidas}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conclusão}{6}{section.4}%

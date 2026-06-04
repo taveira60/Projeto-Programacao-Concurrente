@@ -1,1 +1,2 @@
-# Projeto-Programacao-Concurrente
+# PC
+Projeto em prólogo da cadeira de Programação Concorrente.
